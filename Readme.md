@@ -1,0 +1,1 @@
+Estas aulas são direcionadas a cursos técnicos de Informática, disciplina Redes de Computadores I
